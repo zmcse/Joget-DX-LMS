@@ -20,3 +20,10 @@ This is an online learning management system called Meowdle designed to allow te
 - **Accept Classwork Approval Requests**: The HOD can approve or reject classwork approval requests submitted by teachers.
 - **View Report**: The HOD can access reports related to classwork, grading results, and approval statuses.
 - **Email Notification**: Emails are automatically sent to notify teachers of the approval status of their classwork.
+
+## Demo Video
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=RA6Rlq93UQw">
+    <img src="https://img.youtube.com/vi/RA6Rlq93UQw/0.jpg" alt="Meowdle" width="50%">
+  </a>
+</p>
